@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+python-dotenv
+google-generativeai
+fastapi
+uvicorn
+python-multipart
