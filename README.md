@@ -1,5 +1,13 @@
 # Kitchen Vision 🍳
 
+### Team Members
+| Name | Role | Email |
+| :--- | :--- | :--- |
+| **SARIGASREE SANDHIYAPPAN** | Team Lead | 6314@velsrscollege.com |
+| **MONISHA S** | Member | 6288@velsrscollege.com |
+| **DIVYA BHARATHI S** | Member | 6251@velsrscollege.com |
+
+
 AI-Powered Pantry Analysis and Smart Recipe Recommendation System built with Python and Streamlit. This application transforms a snapshot of your pantry into organized ingredient lists, healthy recipe suggestions, and smart grocery checklists.
 
 ## Features
