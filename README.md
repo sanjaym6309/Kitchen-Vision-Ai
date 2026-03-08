@@ -3,9 +3,10 @@
 ### Team Members
 | Name | Role | Email |
 | :--- | :--- | :--- |
-| **SARIGASREE SANDHIYAPPAN** | Team Lead | 6314@velsrscollege.com |
-| **MONISHA S** | Member | 6288@velsrscollege.com |
-| **DIVYA BHARATHI S** | Member | 6251@velsrscollege.com |
+| **SANJAY M** | Team Lead | 6309@velsrscollege.com |
+| **KABILAN M** | Member | 6266@velsrscollege.com |
+| **RANJITH K** | Member | 6305@velsrscollege.com |
+| **ISRAR AHMED A** | Member | 6259@velsrscollege.com |
 
 
 AI-Powered Pantry Analysis and Smart Recipe Recommendation System built with Python and Streamlit. This application transforms a snapshot of your pantry into organized ingredient lists, healthy recipe suggestions, and smart grocery checklists.
